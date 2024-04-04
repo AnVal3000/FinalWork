@@ -1,2 +1,3 @@
-﻿  6лаба_тест.cpp
-  6 LABA.vcxproj -> E:\лабораторки\ПРОГРАММИРОВАНИЕ\№6 - Леня делает\6 LABA\x64\Debug\6 LABA.exe
+﻿  6 LABA.cpp
+C:\Users\User\Desktop\лабы 2 сем\СИТ 2.0\lr10\FinalWork\6 LABA\6 LABA\6 LABA.cpp(15,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  6 LABA.vcxproj -> C:\Users\User\Desktop\лабы 2 сем\СИТ 2.0\lr10\FinalWork\6 LABA\x64\Debug\6 LABA.exe
