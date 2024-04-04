@@ -13,7 +13,9 @@ int main() {
 	srand(time(NULL));
 
 	k1 = rand() % 10 + 1;
-
+	if (k1 > 0) {
+		printf("Делитель положительный: %d\n", k1);
+	}
 	printf("Массив A:\n");
 	for (int* ptr = B; ptr < &B[19]; ptr++) {
 		*ptr = rand() % 201 - 100;
