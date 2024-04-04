@@ -8,9 +8,7 @@ int main() {
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 
-	int B[20];
-	int k1;
-	int sum = 0;
+	int k1, B[20], sum = 0; //B[20] - массив чисел
 
 	srand(time(NULL));
 
